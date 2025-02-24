@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import messagebox
-import subprocess
 
 class Module:
     def __init__(self, name, coefficient, note_distribution):
