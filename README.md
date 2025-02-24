@@ -1,6 +1,6 @@
 # ENPC Calculator
 
-A simple Python application designed to calculate the average score for first-semester students at ENPC.
+A simple Python application designed to calculate the average score for first-semester students 2CPST at ENPC.
 
 ## Getting Started
 
